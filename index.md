@@ -1,5 +1,3 @@
-# Signaligner Pro #
+## About me ##
 
-## What is Signaligner Pro ##
-
-Signaligner-Pro is an inter
+WIP: I am a research scientist at Spotify
